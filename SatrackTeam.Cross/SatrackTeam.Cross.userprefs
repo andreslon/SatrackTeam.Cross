@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="SatrackTeam.Cross\SatrackTeam.Cross.Droid\SatrackTeam.Cross.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SatrackTeam.Cross.Droid PreferredExecutionTarget="Android.ZX1D62ZFVZ" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SatrackTeam.Cross" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Platforms.SatrackTeam.Cross.Droid PreferredExecutionTarget="Android.ZX1D62ZFVZ" />
+</Properties>

@@ -1,0 +1,9 @@
+D:\Repos\SatrackTeam\SatrackTeam.Cross\SatrackTeam.Logic\bin\Debug\SatrackTeam.Logic.dll
+D:\Repos\SatrackTeam\SatrackTeam.Cross\SatrackTeam.Logic\bin\Debug\SatrackTeam.Logic.pdb
+D:\Repos\SatrackTeam\SatrackTeam.Cross\SatrackTeam.Logic\obj\Debug\SatrackTeam.Logic.csprojResolveAssemblyReference.cache
+D:\Repos\SatrackTeam\SatrackTeam.Cross\SatrackTeam.Logic\obj\Debug\SatrackTeam.Logic.dll
+D:\Repos\SatrackTeam\SatrackTeam.Cross\SatrackTeam.Logic\obj\Debug\SatrackTeam.Logic.pdb
+D:\Repos\SatrackTeam\SatrackTeam.Cross\SatrackTeam.Logic\obj\Debug\SatrackTeam.Logic.dll.mdb
+D:\Repos\SatrackTeam\SatrackTeam.Cross\SatrackTeam.Logic\bin\Debug\SatrackTeam.Logic.dll.mdb
+D:\Repos\SatrackTeam\SatrackTeam.Cross\SatrackTeam.Logic\obj\Debug\SatrackTeam.Logic.dll.mdb
+D:\Repos\SatrackTeam\SatrackTeam.Cross\SatrackTeam.Logic\bin\Debug\SatrackTeam.Logic.dll.mdb

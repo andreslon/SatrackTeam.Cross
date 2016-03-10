@@ -1,0 +1,17 @@
+D:\Repos\SatrackTeam\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\bin\Debug\SatrackTeam.Cross.dll
+D:\Repos\SatrackTeam\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\bin\Debug\SatrackTeam.Cross.pdb
+D:\Repos\SatrackTeam\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\bin\Debug\Xamarin.Forms.Core.dll
+D:\Repos\SatrackTeam\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Repos\SatrackTeam\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Repos\SatrackTeam\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\bin\Debug\Xamarin.Forms.Core.xml
+D:\Repos\SatrackTeam\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Repos\SatrackTeam\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\obj\Debug\SatrackTeam.Cross.dll
+D:\Repos\SatrackTeam\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\obj\Debug\SatrackTeam.Cross.pdb
+D:\Repos\SatrackTeam\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\obj\Debug\SatrackTeam.Cross.Views.LoginPage.xaml.g.cs
+D:\Repos\SatrackTeam\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\obj\Debug\SatrackTeam.Cross.csprojResolveAssemblyReference.cache
+D:\Repos\SatrackTeam\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\bin\Debug\SatrackTeam.Infrastructure.dll
+D:\Repos\SatrackTeam\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\bin\Debug\SatrackTeam.Logic.dll
+D:\Repos\SatrackTeam\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\bin\Debug\SatrackTeam.Infrastructure.pdb
+D:\Repos\SatrackTeam\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\bin\Debug\SatrackTeam.Logic.pdb
+D:\Repos\SatrackTeam\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\obj\Debug\SatrackTeam.Cross.dll.mdb
+D:\Repos\SatrackTeam\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\bin\Debug\SatrackTeam.Cross.dll.mdb

@@ -1,0 +1,8 @@
+D:\Repos\SatrackTeam\SatrackTeam.Cross\SatrackTeam.Infrastructure\bin\Debug\SatrackTeam.Infrastructure.dll
+D:\Repos\SatrackTeam\SatrackTeam.Cross\SatrackTeam.Infrastructure\bin\Debug\SatrackTeam.Infrastructure.pdb
+D:\Repos\SatrackTeam\SatrackTeam.Cross\SatrackTeam.Infrastructure\obj\Debug\SatrackTeam.Infrastructure.dll
+D:\Repos\SatrackTeam\SatrackTeam.Cross\SatrackTeam.Infrastructure\obj\Debug\SatrackTeam.Infrastructure.pdb
+D:\Repos\SatrackTeam\SatrackTeam.Cross\SatrackTeam.Infrastructure\obj\Debug\SatrackTeam.Infrastructure.dll.mdb
+D:\Repos\SatrackTeam\SatrackTeam.Cross\SatrackTeam.Infrastructure\bin\Debug\SatrackTeam.Infrastructure.dll.mdb
+D:\Repos\SatrackTeam\SatrackTeam.Cross\SatrackTeam.Infrastructure\obj\Debug\SatrackTeam.Infrastructure.dll.mdb
+D:\Repos\SatrackTeam\SatrackTeam.Cross\SatrackTeam.Infrastructure\bin\Debug\SatrackTeam.Infrastructure.dll.mdb

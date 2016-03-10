@@ -1,0 +1,2 @@
+D:\Repos\SatrackTeam\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross.WinPhone\SatrackTeam.Cross.WinPhone.csproj;neutral
+D:\Repos\SatrackTeam\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross.csproj;neutral
