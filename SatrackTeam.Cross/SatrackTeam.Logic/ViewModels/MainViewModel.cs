@@ -10,13 +10,10 @@ namespace SatrackTeam.Logic.ViewModels
     {
         public UserViewModel userViewModel { get; set; }
 
-        public MainViewModel() {
+        public MainViewModel()
+        {
 
-            userViewModel = new UserViewModel
-            {
-                UserName = "Andreslon",
-                Password = "12345"
-            };
+            userViewModel = new UserViewModel();
 
 
         }

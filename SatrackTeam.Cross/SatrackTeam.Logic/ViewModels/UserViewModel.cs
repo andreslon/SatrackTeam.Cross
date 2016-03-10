@@ -24,6 +24,22 @@ namespace SatrackTeam.Logic.ViewModels
             set { password = value; }
         }
 
+        private bool validUserName;
+
+        public bool ValidUserName
+        {
+            get { return validUserName; }
+            set { Set(ref validUserName, value); }
+        }
+
+
+        private bool validPassword;
+        public bool ValidPassword
+        {
+            get { return validPassword; }
+            set { Set(ref validPassword, value); }
+        }
+
         public ICommand LoginCommand
         {
             get
@@ -34,7 +50,24 @@ namespace SatrackTeam.Logic.ViewModels
 
         private void Login()
         {
-            
+            ValidPassword = false;
+            ValidUserName = false;
+            bool valid = true;
+            if (string.IsNullOrWhiteSpace(UserName))
+            {
+                ValidUserName = true;
+                valid = false;
+            }
+            if (string.IsNullOrWhiteSpace(Password))
+            {
+                ValidPassword = true;
+                valid = false;
+            }
+            if (valid)
+            {
+                //
+            }
+
         }
     }
 }

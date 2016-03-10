@@ -36,5 +36,3 @@ D:\Repos\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross
 D:\Repos\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\obj\Debug\SatrackTeam.Cross.pdb
 D:\Repos\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\obj\Debug\SatrackTeam.Cross.dll.mdb
 D:\Repos\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\bin\Debug\SatrackTeam.Cross.dll.mdb
-D:\Repos\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\obj\Debug\SatrackTeam.Cross.dll.mdb
-D:\Repos\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\bin\Debug\SatrackTeam.Cross.dll.mdb

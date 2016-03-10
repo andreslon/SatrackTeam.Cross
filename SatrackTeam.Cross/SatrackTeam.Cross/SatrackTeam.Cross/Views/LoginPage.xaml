@@ -10,7 +10,9 @@
           <Image Source="satrack.png" WidthRequest="115" HeightRequest="115"></Image>
         </Grid>
         <Entry Placeholder="Usuario" Text="{Binding userViewModel.UserName, Mode=TwoWay}"  TextColor="{StaticResource ThemeFontColor}"/>
-        <Entry Placeholder="Password" Text="{Binding userViewModel.Password, Mode=TwoWay}"  TextColor="{StaticResource ThemeFontColor}" />
+        <Label  TextColor="{StaticResource ThemeValidationColor}" Text="El usuario es obligatorio" IsVisible="{Binding userViewModel.ValidUserName, Converter={StaticResource BoolToVisibilityConverter}}"/>
+                <Entry Placeholder="Password" Text="{Binding userViewModel.Password, Mode=TwoWay}"  TextColor="{StaticResource ThemeFontColor}" />
+        <Label  TextColor="{StaticResource ThemeValidationColor}" Text="El password es obligatorio" IsVisible="{Binding userViewModel.ValidPassword, Converter={StaticResource BoolToVisibilityConverter}}"/>
         <Button Text="Ingresar" BackgroundColor="{StaticResource ThemeColor}"
                 TextColor="{StaticResource ThemeButtonColor}" Command="{Binding userViewModel.LoginCommand}"/>
       </StackLayout>

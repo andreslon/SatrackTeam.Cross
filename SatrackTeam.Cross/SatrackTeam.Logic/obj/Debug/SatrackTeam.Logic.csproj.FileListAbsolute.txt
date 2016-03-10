@@ -16,9 +16,10 @@ D:\Repos\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Logic\bin\Debug\GalaSof
 D:\Repos\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Logic\bin\Debug\GalaSoft.MvvmLight.Extras.xml
 D:\Repos\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Logic\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
 D:\Repos\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Logic\bin\Debug\Microsoft.Practices.ServiceLocation.xml
-D:\Repos\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Logic\obj\Debug\SatrackTeam.Logic.csprojResolveAssemblyReference.cache
 D:\Repos\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Logic\obj\Debug\SatrackTeam.Logic.dll
 D:\Repos\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Logic\obj\Debug\SatrackTeam.Logic.pdb
+D:\Repos\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Logic\obj\Debug\SatrackTeam.Logic.dll.mdb
+D:\Repos\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Logic\bin\Debug\SatrackTeam.Logic.dll.mdb
 D:\Repos\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Logic\obj\Debug\SatrackTeam.Logic.dll.mdb
 D:\Repos\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Logic\bin\Debug\SatrackTeam.Logic.dll.mdb
 D:\Repos\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Logic\obj\Debug\SatrackTeam.Logic.dll.mdb

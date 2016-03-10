@@ -2,13 +2,17 @@
 <Application xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:converters="clr-namespace:SatrackTeam.Cross.Converters;assembly=SatrackTeam.Cross"
              x:Class="SatrackTeam.Cross.App">
   <Application.Resources>
     <ResourceDictionary>
+      <converters:BoolToVisibilityConverter x:Key="BoolToVisibilityConverter"></converters:BoolToVisibilityConverter>
+      
       <Color x:Key="ThemeColor">#fac400</Color>
       <Color x:Key="BackgroundColor">#f2f2f2</Color>
       <Color x:Key="ThemeFontColor">#808080</Color>
       <Color x:Key="ThemeButtonColor">#fcfcfc</Color>
+      <Color x:Key="ThemeValidationColor">Red</Color>
     </ResourceDictionary>
   </Application.Resources>
 </Application>
