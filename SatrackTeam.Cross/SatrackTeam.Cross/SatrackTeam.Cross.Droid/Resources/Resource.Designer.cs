@@ -3709,6 +3709,9 @@ namespace SatrackTeam.Cross.Droid
 			// aapt resource value: 0x7f0b0044
 			public const int title_template = 2131427396;
 			
+			// aapt resource value: 0x7f0b0082
+			public const int toolbar = 2131427458;
+			
 			// aapt resource value: 0x7f0b0030
 			public const int top = 2131427376;
 			
@@ -3920,6 +3923,9 @@ namespace SatrackTeam.Cross.Droid
 			
 			// aapt resource value: 0x7f030030
 			public const int TextInputLayout = 2130903088;
+			
+			// aapt resource value: 0x7f030031
+			public const int toolbar = 2130903089;
 			
 			static Layout()
 			{

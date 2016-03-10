@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SatrackTeam.Infrastructure.Contracts;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,5 +9,12 @@ namespace SatrackTeam.Logic.ViewModels
 {
     public class ViewModelBase: GalaSoft.MvvmLight.ViewModelBase
     {
+
+        public static IDependencyContainerService Container { get; set; }
+
+        public T GetInstance<T>() where T : class {
+            return Container.Resolve<T>();
+        }
+
     }
 }

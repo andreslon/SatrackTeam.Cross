@@ -3,9 +3,14 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
              xmlns:converters="clr-namespace:SatrackTeam.Cross.Converters;assembly=SatrackTeam.Cross"
+             xmlns:infrastructure="clr-namespace:SatrackTeam.Cross.Infrastructure;assembly=SatrackTeam.Cross"
+             BindingContext="{Binding Main, Source={StaticResource Locator}}"
              x:Class="SatrackTeam.Cross.App">
   <Application.Resources>
     <ResourceDictionary>
+
+      <infrastructure:ViewModelLocator x:Key="Locator" />
+      
       <converters:BoolToVisibilityConverter x:Key="BoolToVisibilityConverter"></converters:BoolToVisibilityConverter>
       
       <Color x:Key="ThemeColor">#fac400</Color>

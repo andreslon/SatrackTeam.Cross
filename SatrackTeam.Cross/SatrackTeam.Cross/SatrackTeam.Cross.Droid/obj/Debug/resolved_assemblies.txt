@@ -1,4 +1,5 @@
 D:\Repos\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross.Droid\obj\Debug\android\assets\SatrackTeam.Cross.Droid.dll
+D:\Repos\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross.Droid\obj\Debug\android\assets\Autofac.dll
 D:\Repos\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross.Droid\obj\Debug\android\assets\FormsViewGroup.dll
 D:\Repos\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross.Droid\obj\Debug\android\assets\Xamarin.Android.Support.Design.dll
 D:\Repos\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v4.dll
@@ -17,9 +18,12 @@ D:\Repos\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross
 D:\Repos\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross.Droid\obj\Debug\android\assets\System.Xml.dll
 D:\Repos\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross.Droid\obj\Debug\android\assets\System.Xml.Linq.dll
 D:\Repos\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross.Droid\obj\Debug\android\assets\SatrackTeam.Cross.dll
+D:\Repos\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross.Droid\obj\Debug\android\assets\SatrackTeam.Infrastructure.dll
+D:\Repos\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross.Droid\obj\Debug\android\assets\SatrackTeam.Logic.dll
 D:\Repos\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll
 D:\Repos\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross.Droid\obj\Debug\android\assets\System.Net.Http.dll
 D:\Repos\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll
 D:\Repos\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll
-D:\Repos\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross.Droid\obj\Debug\android\assets\SatrackTeam.Logic.dll
 D:\Repos\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross.Droid\obj\Debug\android\assets\GalaSoft.MvvmLight.dll
+D:\Repos\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross.Droid\obj\Debug\android\assets\SatrackTeam.Domain.dll
+D:\Repos\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross\SatrackTeam.Cross.Droid\obj\Debug\android\assets\Newtonsoft.Json.dll

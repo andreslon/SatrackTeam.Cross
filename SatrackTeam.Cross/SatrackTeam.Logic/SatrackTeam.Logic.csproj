@@ -34,8 +34,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Helpers\ViewModelHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ViewModels\MainViewModel.cs" />
+    <Compile Include="ViewModels\MenuItemViewModel.cs" />
     <Compile Include="ViewModels\RequestViewModel.cs" />
     <Compile Include="ViewModels\UserViewModel.cs" />
     <Compile Include="ViewModels\ViewModelBase.cs" />
@@ -56,6 +58,16 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SatrackTeam.Domain\SatrackTeam.Domain.csproj">
+      <Project>{4ea8e59e-97d2-45f7-8dbb-db6aef1efa1f}</Project>
+      <Name>SatrackTeam.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SatrackTeam.Infrastructure\SatrackTeam.Infrastructure.csproj">
+      <Project>{5acbbafd-193b-479e-abfd-3e5b096d456f}</Project>
+      <Name>SatrackTeam.Infrastructure</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

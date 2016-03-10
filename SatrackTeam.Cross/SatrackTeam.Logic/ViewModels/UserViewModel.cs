@@ -1,4 +1,6 @@
 ﻿using GalaSoft.MvvmLight.Command;
+using SatrackTeam.Infrastructure.Contracts;
+using SatrackTeam.Logic.Helpers;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,6 +12,14 @@ namespace SatrackTeam.Logic.ViewModels
 {
     public class UserViewModel : ViewModelBase
     {
+        public IApiService apiService { get; set; }
+        public IDialogService dialogService { get; set; }
+
+        public UserViewModel()
+        {
+            apiService = GetInstance<IApiService>();
+        }
+
         private string username;
 
         public string UserName
@@ -39,6 +49,7 @@ namespace SatrackTeam.Logic.ViewModels
             get { return validPassword; }
             set { Set(ref validPassword, value); }
         }
+        public bool IsSessionStarted { get; set; }
 
         public ICommand LoginCommand
         {
@@ -48,7 +59,7 @@ namespace SatrackTeam.Logic.ViewModels
             }
         }
 
-        private void Login()
+        async private void Login()
         {
             ValidPassword = false;
             ValidUserName = false;
@@ -65,7 +76,19 @@ namespace SatrackTeam.Logic.ViewModels
             }
             if (valid)
             {
-                //
+                var response = await apiService.ValidUser(ViewModelHelper.VMToModelUser(this));
+                //if (response != null && response.Count > 0)
+                if (true)
+                {
+                    IsSessionStarted = true;
+                    var main = GetInstance<MainViewModel>();
+                    main.NavigateTo("Main");
+                }
+                else
+                {
+                    await dialogService.ShowMessage("El usuario no existe", "Notificación");
+                }
+
             }
 
         }

@@ -14,8 +14,6 @@ namespace SatrackTeam.Cross.Views
         public LoginPage()
         {
             InitializeComponent();
-            this.BindingContext = new MainViewModel();
-             
         }
  
     }

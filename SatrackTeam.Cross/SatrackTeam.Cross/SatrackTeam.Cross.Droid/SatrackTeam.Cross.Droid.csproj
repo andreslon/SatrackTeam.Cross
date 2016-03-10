@@ -58,6 +58,10 @@
     <AndroidLinkMode>SdkOnly</AndroidLinkMode>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Autofac, Version=3.5.0.0, Culture=neutral, PublicKeyToken=17863af14b0044da, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Autofac.3.5.2\lib\portable-net4+sl5+netcore45+wpa81+wp8+MonoAndroid1+MonoTouch1\Autofac.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="FormsViewGroup, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Xamarin.Forms.2.0.0.6482\lib\MonoAndroid10\FormsViewGroup.dll</HintPath>
       <Private>True</Private>
@@ -110,6 +114,7 @@
     <Compile Include="MainActivity.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\DependencyContainerService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
@@ -118,6 +123,7 @@
     <AndroidResource Include="Resources\layout\TextInputLayout.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
+    <AndroidResource Include="Resources\layout\toolbar.axml" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\icon.png" />
@@ -129,6 +135,14 @@
     <None Include="Properties\AndroidManifest.xml" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\SatrackTeam.Infrastructure\SatrackTeam.Infrastructure.csproj">
+      <Project>{5acbbafd-193b-479e-abfd-3e5b096d456f}</Project>
+      <Name>SatrackTeam.Infrastructure</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\SatrackTeam.Logic\SatrackTeam.Logic.csproj">
+      <Project>{e4e7b3d2-2dfa-4e27-b4bb-fadc3d0a9d19}</Project>
+      <Name>SatrackTeam.Logic</Name>
+    </ProjectReference>
     <ProjectReference Include="..\SatrackTeam.Cross\SatrackTeam.Cross.csproj">
       <Project>{ADDC3869-3ABE-4024-866F-43C7F1E37AB8}</Project>
       <Name>SatrackTeam.Cross</Name>

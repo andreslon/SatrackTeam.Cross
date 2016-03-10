@@ -92,6 +92,7 @@ class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		/* We need to ensure that "SatrackTeam.Cross.Droid.dll" comes first in this list. */
 		"SatrackTeam.Cross.Droid.dll",
+		"Autofac.dll",
 		"FormsViewGroup.dll",
 		"Xamarin.Android.Support.Design.dll",
 		"Xamarin.Android.Support.v4.dll",
@@ -104,9 +105,12 @@ class MonoPackageManager_Resources {
 		"Xamarin.Forms.Xaml.dll",
 		"Java.Interop.dll",
 		"SatrackTeam.Cross.dll",
-		"System.ServiceModel.Internals.dll",
+		"SatrackTeam.Infrastructure.dll",
 		"SatrackTeam.Logic.dll",
+		"System.ServiceModel.Internals.dll",
 		"GalaSoft.MvvmLight.dll",
+		"SatrackTeam.Domain.dll",
+		"Newtonsoft.Json.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};

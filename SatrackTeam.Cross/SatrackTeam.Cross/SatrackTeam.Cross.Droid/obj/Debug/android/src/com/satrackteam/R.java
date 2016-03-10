@@ -2410,6 +2410,7 @@ containing a value of this type.
         public static final int title=0x7f0b0041;
         public static final int title_bar=0x7f0b0067;
         public static final int title_template=0x7f0b0044;
+        public static final int toolbar=0x7f0b0082;
         public static final int top=0x7f0b0030;
         public static final int topPanel=0x7f0b0043;
         public static final int up=0x7f0b0008;
@@ -2476,6 +2477,7 @@ containing a value of this type.
         public static final int select_dialog_singlechoice_material=0x7f03002e;
         public static final int support_simple_spinner_dropdown_item=0x7f03002f;
         public static final int textinputlayout=0x7f030030;
+        public static final int toolbar=0x7f030031;
     }
     public static final class string {
         public static final int ApplicationName=0x7f05001f;
