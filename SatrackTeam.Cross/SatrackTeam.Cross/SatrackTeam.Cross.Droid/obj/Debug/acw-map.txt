@@ -2,6 +2,10 @@ SatrackTeam.Cross.Droid.MainActivity, SatrackTeam.Cross.Droid;md5108dffb340056f9
 SatrackTeam.Cross.Droid.MainActivity, SatrackTeam.Cross.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5108dffb340056f96416d745c31a723ad.MainActivity
 SatrackTeam.Cross.Droid.MainActivity;md5108dffb340056f96416d745c31a723ad.MainActivity
 satrackteam.cross.droid.MainActivity;md5108dffb340056f96416d745c31a723ad.MainActivity
+SatrackTeam.Cross.Droid.Controls.MaterialEntryRenderer, SatrackTeam.Cross.Droid;md5743bc6253cf312dc49b41efb94c567ee.MaterialEntryRenderer
+SatrackTeam.Cross.Droid.Controls.MaterialEntryRenderer, SatrackTeam.Cross.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5743bc6253cf312dc49b41efb94c567ee.MaterialEntryRenderer
+SatrackTeam.Cross.Droid.Controls.MaterialEntryRenderer;md5743bc6253cf312dc49b41efb94c567ee.MaterialEntryRenderer
+satrackteam.cross.droid.controls.MaterialEntryRenderer;md5743bc6253cf312dc49b41efb94c567ee.MaterialEntryRenderer
 Android.Support.Design.Widget.Snackbar/SnackbarActionClickImplementor, Xamarin.Android.Support.Design;android.support.design.widget.Snackbar_SnackbarActionClickImplementor
 Android.Support.Design.Widget.Snackbar+SnackbarActionClickImplementor, Xamarin.Android.Support.Design, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;android.support.design.widget.Snackbar_SnackbarActionClickImplementor
 Android.Support.Design.Widget.Snackbar.SnackbarActionClickImplementor;android.support.design.widget.Snackbar_SnackbarActionClickImplementor

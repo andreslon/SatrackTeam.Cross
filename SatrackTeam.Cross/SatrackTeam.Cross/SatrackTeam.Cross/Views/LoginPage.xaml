@@ -1,12 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             BackgroundColor="{StaticResource BackgroundColor}"
              x:Class="SatrackTeam.Cross.Views.LoginPage">
-  <StackLayout Orientation="Vertical">
-      <Label Text="Usuario" VerticalOptions="Center" HorizontalOptions="Center" />
-      <Entry Text="{Binding userViewModel.UserName, Mode=TwoWay}" />
-      <Label Text="Password" VerticalOptions="Center" HorizontalOptions="Center" />
-      <Entry Text="{Binding userViewModel.Password, Mode=TwoWay}" />
-      <Button Text="Ingresar" Command="{Binding userViewModel.LoginCommand}"/>
-  </StackLayout>
+  <Grid Padding="20">
+    <ScrollView>
+      <StackLayout HorizontalOptions="Center">
+        <Grid Padding="20">
+          <Image Source="satrack.png" WidthRequest="115" HeightRequest="115"></Image>
+        </Grid>
+        <Entry Placeholder="Usuario" Text="{Binding userViewModel.UserName, Mode=TwoWay}"  TextColor="{StaticResource ThemeFontColor}"/>
+        <Entry Placeholder="Password" Text="{Binding userViewModel.Password, Mode=TwoWay}"  TextColor="{StaticResource ThemeFontColor}" />
+        <Button Text="Ingresar" BackgroundColor="{StaticResource ThemeColor}"
+                TextColor="{StaticResource ThemeButtonColor}" Command="{Binding userViewModel.LoginCommand}"/>
+      </StackLayout>
+    </ScrollView>
+  </Grid>
 </ContentPage>

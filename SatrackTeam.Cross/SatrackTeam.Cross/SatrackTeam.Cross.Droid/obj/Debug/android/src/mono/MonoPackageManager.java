@@ -106,6 +106,7 @@ class MonoPackageManager_Resources {
 		"SatrackTeam.Cross.dll",
 		"System.ServiceModel.Internals.dll",
 		"SatrackTeam.Logic.dll",
+		"GalaSoft.MvvmLight.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};

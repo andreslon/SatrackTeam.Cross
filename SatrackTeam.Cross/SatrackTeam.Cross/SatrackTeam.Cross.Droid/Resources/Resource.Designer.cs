@@ -2431,32 +2431,32 @@ namespace SatrackTeam.Cross.Droid
 		public partial class Color
 		{
 			
-			// aapt resource value: 0x7f080047
-			public const int abc_background_cache_hint_selector_material_dark = 2131230791;
+			// aapt resource value: 0x7f08004b
+			public const int abc_background_cache_hint_selector_material_dark = 2131230795;
 			
-			// aapt resource value: 0x7f080048
-			public const int abc_background_cache_hint_selector_material_light = 2131230792;
+			// aapt resource value: 0x7f08004c
+			public const int abc_background_cache_hint_selector_material_light = 2131230796;
 			
-			// aapt resource value: 0x7f080049
-			public const int abc_color_highlight_material = 2131230793;
+			// aapt resource value: 0x7f08004d
+			public const int abc_color_highlight_material = 2131230797;
 			
 			// aapt resource value: 0x7f080004
 			public const int abc_input_method_navigation_guard = 2131230724;
 			
-			// aapt resource value: 0x7f08004a
-			public const int abc_primary_text_disable_only_material_dark = 2131230794;
-			
-			// aapt resource value: 0x7f08004b
-			public const int abc_primary_text_disable_only_material_light = 2131230795;
-			
-			// aapt resource value: 0x7f08004c
-			public const int abc_primary_text_material_dark = 2131230796;
-			
-			// aapt resource value: 0x7f08004d
-			public const int abc_primary_text_material_light = 2131230797;
-			
 			// aapt resource value: 0x7f08004e
-			public const int abc_search_url_text = 2131230798;
+			public const int abc_primary_text_disable_only_material_dark = 2131230798;
+			
+			// aapt resource value: 0x7f08004f
+			public const int abc_primary_text_disable_only_material_light = 2131230799;
+			
+			// aapt resource value: 0x7f080050
+			public const int abc_primary_text_material_dark = 2131230800;
+			
+			// aapt resource value: 0x7f080051
+			public const int abc_primary_text_material_light = 2131230801;
+			
+			// aapt resource value: 0x7f080052
+			public const int abc_search_url_text = 2131230802;
 			
 			// aapt resource value: 0x7f080005
 			public const int abc_search_url_text_normal = 2131230725;
@@ -2467,11 +2467,14 @@ namespace SatrackTeam.Cross.Droid
 			// aapt resource value: 0x7f080007
 			public const int abc_search_url_text_selected = 2131230727;
 			
-			// aapt resource value: 0x7f08004f
-			public const int abc_secondary_text_material_dark = 2131230799;
+			// aapt resource value: 0x7f080053
+			public const int abc_secondary_text_material_dark = 2131230803;
 			
-			// aapt resource value: 0x7f080050
-			public const int abc_secondary_text_material_light = 2131230800;
+			// aapt resource value: 0x7f080054
+			public const int abc_secondary_text_material_light = 2131230804;
+			
+			// aapt resource value: 0x7f080049
+			public const int accent = 2131230793;
 			
 			// aapt resource value: 0x7f080008
 			public const int accent_material_dark = 2131230728;
@@ -2620,6 +2623,12 @@ namespace SatrackTeam.Cross.Droid
 			// aapt resource value: 0x7f08002b
 			public const int material_grey_900 = 2131230763;
 			
+			// aapt resource value: 0x7f080047
+			public const int primary = 2131230791;
+			
+			// aapt resource value: 0x7f080048
+			public const int primaryDark = 2131230792;
+			
 			// aapt resource value: 0x7f08002c
 			public const int primary_dark_material_dark = 2131230764;
 			
@@ -2668,17 +2677,20 @@ namespace SatrackTeam.Cross.Droid
 			// aapt resource value: 0x7f08003b
 			public const int switch_thumb_disabled_material_light = 2131230779;
 			
-			// aapt resource value: 0x7f080051
-			public const int switch_thumb_material_dark = 2131230801;
+			// aapt resource value: 0x7f080055
+			public const int switch_thumb_material_dark = 2131230805;
 			
-			// aapt resource value: 0x7f080052
-			public const int switch_thumb_material_light = 2131230802;
+			// aapt resource value: 0x7f080056
+			public const int switch_thumb_material_light = 2131230806;
 			
 			// aapt resource value: 0x7f08003c
 			public const int switch_thumb_normal_material_dark = 2131230780;
 			
 			// aapt resource value: 0x7f08003d
 			public const int switch_thumb_normal_material_light = 2131230781;
+			
+			// aapt resource value: 0x7f08004a
+			public const int window_background = 2131230794;
 			
 			static Color()
 			{
@@ -3309,8 +3321,11 @@ namespace SatrackTeam.Cross.Droid
 			// aapt resource value: 0x7f020062
 			public const int mr_ic_settings_light = 2130837602;
 			
+			// aapt resource value: 0x7f020064
+			public const int notification_template_icon_bg = 2130837604;
+			
 			// aapt resource value: 0x7f020063
-			public const int notification_template_icon_bg = 2130837603;
+			public const int satrack = 2130837603;
 			
 			static Drawable()
 			{
@@ -3676,6 +3691,9 @@ namespace SatrackTeam.Cross.Droid
 			// aapt resource value: 0x7f0b007c
 			public const int text2 = 2131427452;
 			
+			// aapt resource value: 0x7f0b0081
+			public const int textInputLayout = 2131427457;
+			
 			// aapt resource value: 0x7f0b0048
 			public const int textSpacerNoButtons = 2131427400;
 			
@@ -3899,6 +3917,9 @@ namespace SatrackTeam.Cross.Droid
 			
 			// aapt resource value: 0x7f03002f
 			public const int support_simple_spinner_dropdown_item = 2130903087;
+			
+			// aapt resource value: 0x7f030030
+			public const int TextInputLayout = 2130903088;
 			
 			static Layout()
 			{
@@ -4459,6 +4480,12 @@ namespace SatrackTeam.Cross.Droid
 			
 			// aapt resource value: 0x7f070006
 			public const int CardView_Light = 2131165190;
+			
+			// aapt resource value: 0x7f070144
+			public const int MyTheme = 2131165508;
+			
+			// aapt resource value: 0x7f070145
+			public const int MyTheme_Base = 2131165509;
 			
 			// aapt resource value: 0x7f070016
 			public const int Platform_AppCompat = 2131165206;
